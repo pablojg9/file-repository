@@ -1,5 +1,5 @@
-Pablo;pablojuniorgn@ada;15
-junior;juniorgn@ada;17
-guti;guti@ada;14
+Pablo;pablo@gmail.com;15
+junior;juniorgn@gmail;17
+guti;guti@gmail;14
 
 josé;jose@gmail.com;13

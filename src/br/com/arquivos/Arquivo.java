@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Arquivo {
     public static void main(String[] args) throws IOException {
-        File arquivo = new File("D:\\user\\Documentos\\JDEV-TREINAMENTOS\\Projetos\\ler-arquivos\\arquivo.txt");
+        File arquivo = new File("D:\\user\\Documentos\\JDEV-TREINAMENTOS\\Projetos\\ler-arquivos\\arquivo.csv");
 
         Pessoa pessoa1 = new Pessoa();
         pessoa1.setNome("Pablo");

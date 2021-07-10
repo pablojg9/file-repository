@@ -33,8 +33,9 @@ public class readFile {
                 pessoas.add(pessoa);
             }
 
-
         }
+
+
 
         JOptionPane.showMessageDialog(null, stringBuilder.toString());
 
